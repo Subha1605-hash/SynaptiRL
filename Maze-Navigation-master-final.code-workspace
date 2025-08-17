@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "Maze-Navigation-master"
+		},
+		{
+			"path": "pytorch-maml-master"
+		},
+		{
+			"path": "learn2learn-master/learn2learn-master/examples"
+		},
+		{
+			"path": "Deep_reinforcement_learning_Course-master/Deep_reinforcement_learning_Course-master/Q learning/FrozenLake"
+		}
+	],
+	"settings": {}
+}
